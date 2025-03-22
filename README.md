@@ -4,7 +4,7 @@
 
 # Overview
 
-This project builds a movie recommendation system using the TMDB dataset containing over 930,000 (640,000 after preprocessing) movies. The system focuses on content-based filtering, utilizing movie metadata such as genres, production companies, and release information. It leverages efficient Euclidean similarity search techniques, sparse matrix vector indexing, and fuzzy string matching to provide personalized movie recommendations based on similarity.
+This project builds a movie recommendation system using the TMDB dataset containing over 930,000 movies. The system focuses on content-based filtering, utilizing movie metadata such as genres, production companies, and release information. It leverages efficient Euclidean similarity search techniques, sparse matrix vector indexing, and fuzzy string matching to provide personalized movie recommendations based on similarity.
 
 # Key Features
 
